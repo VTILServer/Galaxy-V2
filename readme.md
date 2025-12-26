@@ -15,6 +15,6 @@ This bot is built for customizability and ease of use.
 
 
 ## CREDITS
-tusKOR661: for the original bot: https://pastebin.com/cRq9Gm50
-ErringPaladin10: for the rewrite of the bot.
-Co-Pilot: for the embedded site.
+* tusKOR661: for the original bot: https://pastebin.com/cRq9Gm50
+* ErringPaladin10: for the rewrite of the bot.
+* Co-Pilot: for the embedded site.

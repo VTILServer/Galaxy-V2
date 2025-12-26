@@ -3,16 +3,11 @@ A very easy to use/setup bot for general purpose usecases like moderation and ve
 
 # How to setup Galaxy Bot for your server
 1) use npm to install required packages, ``npm i``.
-2) create a .env file for required configs and paste this required content
-```text
-PORT=5178
-TOKEN=Discord Bot Token
-OWNER_ID=Your Discord User Id
-```
+2) rename env.example to .env.
 2.5) put your discord bot token in the .env file you created and put your discord user id
 3) install pm2 as a global package, ``npm i -g pm2``.
-4) start it! ``pm2 start bot.js``
-5) monitor for errors. ``pm2 monit``
+4) start it! ``pm2 start bot.js``.
+5) monitor for errors. ``pm2 monit``.
 And your done!
 
 # Notes
